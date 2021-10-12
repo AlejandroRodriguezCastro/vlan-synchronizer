@@ -1,0 +1,32 @@
+2021-10-12 15:44:15,735::INFO::DB::Connected to DB...
+2021-10-12 15:44:15,735::INFO::SW::Connected to SW...
+2021-10-12 15:44:15,743::INFO::DB::Registry 1530 added.
+2021-10-12 15:44:15,747::INFO::DB::Registry 4090 added.
+2021-10-12 15:44:15,752::INFO::DB::Registry 490 added.
+2021-10-12 15:44:15,756::INFO::DB::Registry 1002 deleted.
+2021-10-12 15:44:15,760::INFO::DB::Registry 1002 added.
+2021-10-12 15:44:15,763::INFO::DB::Registry 1000 added.
+2021-10-12 15:44:15,764::INFO::SW::Vlans adquired.
+2021-10-12 15:44:15,764::INFO::DB::DB query all on DB.
+2021-10-12 15:44:15,769::INFO::DB::Registry 1530 deleted.
+2021-10-12 15:44:15,773::INFO::DB::Registry 4090 deleted.
+2021-10-12 15:44:15,777::INFO::DB::Registry 490 deleted.
+2021-10-12 15:44:15,781::INFO::DB::Vlan 1002 updated.
+2021-10-12 15:44:15,785::INFO::DB::Registry 1000 deleted.
+2021-10-12 15:44:15,785::INFO::root::Sync success
+2021-10-12 15:45:03,706::INFO::DB::Connected to DB...
+2021-10-12 15:45:03,706::INFO::SW::Connected to SW...
+2021-10-12 15:45:03,717::INFO::DB::Registry 1530 added.
+2021-10-12 15:45:03,721::INFO::DB::Registry 4090 added.
+2021-10-12 15:45:03,729::INFO::DB::Registry 490 added.
+2021-10-12 15:45:03,737::INFO::DB::Registry 1002 deleted.
+2021-10-12 15:45:03,744::INFO::DB::Registry 1002 added.
+2021-10-12 15:45:03,753::INFO::DB::Registry 1000 added.
+2021-10-12 15:45:03,759::INFO::SW::Vlans adquired.
+2021-10-12 15:45:03,759::INFO::DB::DB query all on DB.
+2021-10-12 15:45:03,770::INFO::DB::Registry 1530 deleted.
+2021-10-12 15:45:03,788::INFO::DB::Registry 4090 deleted.
+2021-10-12 15:45:03,797::INFO::DB::Registry 490 deleted.
+2021-10-12 15:45:03,806::INFO::DB::Vlan 1002 updated.
+2021-10-12 15:45:03,812::INFO::DB::Registry 1000 deleted.
+2021-10-12 15:45:03,812::INFO::root::Sync success
